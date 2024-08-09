@@ -2,6 +2,8 @@
 
 This repository showcases the data analysis project for Prajwal's Online Store. The project involves detailed analysis of customer demographics, sales channels, and order details using Excel. Below is an overview of the data, key insights derived, and the analysis process.
 
+<img src="https://github.com/prajjukorban/Prajwal-online-store-Data-Analysis-in-Excel/blob/main/First%20dashboard.jpg">
+
 ## Project Overview
 
 The project is structured around multiple sheets in an Excel file:
